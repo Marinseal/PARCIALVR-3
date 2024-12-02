@@ -1,0 +1,14 @@
+{
+    "gzip": false,
+    "useRapier": true,
+    "license": {
+        "id": "",
+        "key": ""
+    },
+    "generator": "Needle Engine for Blender 0.52.0",
+    "meta": {
+        "title": "poketibulo",
+        "description": "Built with Needle Engine for Blender",
+        "image": "include/poster.webp"
+    }
+}
